@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "Landing page for trillo",
   "main": "index.js",
+  "homepage": "http://hollister009.github.io/trillo",
   "scripts": {
     "deploy": "gh-pages -d build",
     "watch:sass": "node-sass -w scss/ -o dist/css/ --recursive",
